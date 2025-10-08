@@ -32,9 +32,6 @@
 - [001](./ruby/refactoring/001/quiz.rb) / [002](./ruby/refactoring/002/quiz.rb) / [003](./ruby/refactoring/003/quiz.rb) / [004](./ruby/refactoring/004/quiz.rb) / [005](./ruby/refactoring/005/quiz.rb)
 - [006](./ruby/refactoring/006/quiz.rb) / [007](./ruby/refactoring/007/quiz.rb) / [008](./ruby/refactoring/008/quiz.rb) / [009](./ruby/refactoring/009/quiz.rb) / [010](./ruby/refactoring/010/quiz.rb)
 - [011](./ruby/refactoring/011/quiz.rb) / [012](./ruby/refactoring/012/quiz.rb) / [013](./ruby/refactoring/013/quiz.rb) / [014](./ruby/refactoring/014/quiz.rb) / [015](./ruby/refactoring/015/quiz.rb)
-- [016](./ruby/refactoring/016/quiz.rb) / [017](./ruby/refactoring/017/quiz.rb) / [018](./ruby/refactoring/018/quiz.rb) / [019](./ruby/refactoring/019/quiz.rb) / [020](./ruby/refactoring/020/quiz.rb)
-- [021](./ruby/refactoring/021/quiz.rb) / [022](./ruby/refactoring/022/quiz.rb) / [023](./ruby/refactoring/023/quiz.rb) / [024](./ruby/refactoring/024/quiz.rb) / [025](./ruby/refactoring/025/quiz.rb)
-- [026](./ruby/refactoring/026/quiz.rb) / [027](./ruby/refactoring/027/quiz.rb) / [028](./ruby/refactoring/028/quiz.rb) / [029](./ruby/refactoring/029/quiz.rb) / [030](./ruby/refactoring/030/quiz.rb)
 
 ### アルゴリズム問題
 - [001](./ruby/algorithms/001/quiz.rb) / [002](./ruby/algorithms/002/quiz.rb) / [003](./ruby/algorithms/003/quiz.rb) / [004](./ruby/algorithms/004/quiz.rb) / [005](./ruby/algorithms/005/quiz.rb)
